@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE studentRecords SYSTEM "Students.dtd">
+<studentRecords>
+<student status="FullTime">
+<firstName>Marcy</firstName>
+<lastName>Brown</lastName>
+<major>IST</major>
+</student>
+
+<student status="PartTime">
+<firstName>Joe</firstName>
+<lastName>Burken</lastName>
+<major>Business</major>
+</student>
+
+<student status="NonDegree">
+<firstName>Cindy</firstName>
+<lastName>Eriksson</lastName>
+<major>Nursing</major>
+</student>
+
+<student status="Provisional">
+<firstName>Mike</firstName>
+<lastName>Ferguson</lastName>
+<major>Business</major>
+</student>
+
+<student status="FullTime">
+<firstName>Donna</firstName>
+<lastName>Gerrity</lastName>
+<major>HDFS</major>
+</student>
+
+<student status="NonDegree">
+<firstName>Eric</firstName>
+<lastName>Henderson</lastName>
+<major>IST</major>
+</student>
+
+<student status="PartTime">
+<firstName>Polaris</firstName>
+<lastName>Igloo</lastName>
+<major>HDFS</major>
+</student>
+
+<student status="FullTime">
+<firstName>Jennie</firstName>
+<lastName>Jergens</lastName>
+<major>Business</major>
+</student>
+
+<student status="FullTime">
+<firstName>Paul</firstName>
+<lastName>McClain</lastName>
+<major>IST</major>
+</student>
+
+<student status="Provisional">
+<firstName>Nancy</firstName>
+<lastName>Maloney</lastName>
+<major>Nursing</major>
+</student>
+
+<student status="PartTime">
+<firstName>Richard</firstName>
+<lastName>Nichols</lastName>
+<major>HDFS</major>
+</student>
+</studentRecords>

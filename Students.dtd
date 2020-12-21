@@ -1,0 +1,7 @@
+<!ELEMENT studentRecords (student*)>
+<!ELEMENT student (firstName, lastName, major)>
+<!ATTLIST student 
+   status (FullTime|PartTime|NonDegree|Provisional) #REQUIRED>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
